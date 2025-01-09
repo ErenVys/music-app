@@ -1,6 +1,5 @@
 Aşağıda projeniz için Türkçe bir **README.md** dosyası oluşturulmuştur:
 
-```markdown
 # Müzik Dinleme Uygulaması 🎵
 
 Bu proje, kullanıcıların favori şarkılarını keşfetmesini, organize etmesini ve modern bir platformda dinlemesini sağlayan bir müzik dinleme platformudur. **Next.js**, **React**, **TailwindCSS**, **Supabase** ve **PostgreSQL** gibi güncel teknolojiler kullanılarak inşa edilmiştir ve kullanıcı dostu bir arayüz ile optimize edilmiş performans sunmayı hedefler.
@@ -30,7 +29,6 @@ Bu proje, kullanıcıların favori şarkılarını keşfetmesini, organize etmes
 ---
 
 ## 📂 Proje Yapısı
-```
 
 /components # Tekrar kullanılabilir arayüz bileşenleri
 /hooks # Özel React hook'ları
